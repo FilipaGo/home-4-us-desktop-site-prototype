@@ -3,7 +3,7 @@
 <br></br>
 <p align="center">
 <img src="https://raw.githubusercontent.com/FilipaGo/home-4-us-desktop-site-prototype/master/_images_readme/redesign-orange.jpg" width="1000" />
-Homepage Redesign.
+Homepage Detail.
 </p>
 <br></br>
 
