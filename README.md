@@ -9,9 +9,17 @@ Homepage Detail.
 
 ## Project Summary
 
-Website redesign and development (proof of concept) for Home4Us, a Portuguese company that sells household and decoration articles with a gift shop section.
+Website redesign and development (proof of concept) for Home4Us, a small Portuguese company that sells household and decoration articles with a gift shop section.
 
-[homepage](https://filipago.github.io/home-4-us/)  //  [product page](https://filipago.github.io/home-4-us/produto.html)  //  [contact form](https://filipago.github.io/home-4-us/contactos.html)
+To redesign the homepage, products’ list page, product page and cart, I mapped out the following strategy:
+
+* Client Assessment (Briefing definition, project scope and objectives);
+* Research (Target Users definition, Proto-personas and Benchmarking Analysis);
+* Interaction Design (Documentation on the current site's Information Architecture and Content Inventory [as-is analysis], User Flows, New Information Architecture, Wireframes);
+* Visual Identity;
+* User Interface Design (Mockups):
+* Non-functional Prototypes;
+* Development.
 
 ***
 
@@ -78,21 +86,5 @@ Improve the website's navigation and build a responsive online shop that can hel
 Bring Home4us' outdated website to the 21st century with a bold and edgy redesign that conveys a friendly, neighbourly and positive vibe!
 
 ## Methodology
-
-To redesign the homepage, products' list page, product page and cart, I mapped out the following strategy:
-
-* Briefing definition, scope and objectives;
-* Target Users definition;
-* Proto-personas;
-* Benchmarking analysis;
-* Documentation on the current site's information architecture and content inventory (as-is analysis);
-* New information architecture;
-* User flows;
-* Wireframes;
-* Visual identity;
-* Mockup design:
-  * [Desktop mockups](https://filipago.github.io/home-4-us-desktop-site-prototype)
-  * [Mobile mockups](https://filipago.github.io/home-4-us-mobile-site-prototype/)
-* Prototype.
 
 Full Case Study Coming Soon! 🚧
