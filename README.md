@@ -14,13 +14,13 @@ Website redesign and development (proof of concept) for Home4Us, a small Portugu
 To redesign the homepage, products’ list page, product page and cart, I mapped out the following strategy:
 
 * Client Assessment (Briefing definition, project scope and objectives);
-* Research (Target Users definition, Proto-personas and Benchmarking Analysis);
+* Research (Benchmarking Analysis, Target Users definition and Proto-personas);
 * Interaction Design (Documentation on the current site's Information Architecture and Content Inventory [as-is analysis], User Flows, New Information Architecture, Wireframes);
 * Visual Identity;
 * User Interface Design (Mockups):
 * Non-functional Prototypes;
 * Development.
-
+<br></br>
 ***
 
 👉 Redesigned Desktop Version https://filipago.github.io/home-4-us-desktop-site-prototype
