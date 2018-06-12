@@ -68,7 +68,7 @@ Home4Us' old and outdated Weebly website was unsuitable for the requirements of 
 
 <br></br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/FilipaGo/home-4-us-desktop-site-prototype/master/_images_readme/analytics_home4us_geral.jpg" width="1000" />
+<img src="https://raw.githubusercontent.com/FilipaGo/home-4-us-desktop-site-prototype/master/_images_readme/analytics.jpg" width="1000" />
 Home4Us Website Analytics
 </p>
 <br></br>
