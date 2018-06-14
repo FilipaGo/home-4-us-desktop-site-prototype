@@ -201,7 +201,7 @@ After many iterations I finally came up with a solution I was happier with and t
 <br></br>
 <p align="center">
 <img src="https://raw.githubusercontent.com/FilipaGo/home-4-us-desktop-site-prototype/master/_images_readme/info-architecture-new.jpg" width="1000" />
-Home4Us new Information Architecture… 5th iteration. You can <a href="https://raw.githubusercontent.com/FilipaGo/home-4-us-desktop-site-prototype/master/_docs_readme/ info-architecture_home4us_v05.xlsx" >download the document here</a> if you want to check it out.
+Home4Us new Information Architecture… 5th iteration. You can <a href="https://raw.githubusercontent.com/FilipaGo/home-4-us-desktop-site-prototype/master/_docs_readme/info-architecture_home4us_v05.xlsx" >download the document here</a> if you want to check it out.
 </p>
 <br></br>
 
