@@ -264,13 +264,15 @@ Home4Us Mockups. From left to right, List Page and Product Page.
 </p>
 <br></br>
 
-Both the Product Page and the Cart Page have fixed sections to the bottom of the screen that facilitate adding products to the cart and proceeding with checkout without making the user scroll too much.
+On mobile, both the Product Page and the Cart Page have fixed sections to the bottom of the screen that facilitate adding products to the cart and proceeding with checkout without making the user scroll too much.
 
 <br></br>
 <p align="center">
 <img src="https://raw.githubusercontent.com/FilipaGo/home-4-us-desktop-site-prototype/master/_images_readme/mockups-02.jpg" width="1000" />
 Home4Us Mockups. Cart.
 </p>
+
+The first step in the checkout process already delivers a complete summary of everything that may influence the final price, avoiding late surprises regarding total cost and thus reducing friction.
 
 ***
 
