@@ -75,11 +75,11 @@ Home4Us Google Analytics Views.
 </p>
 <br></br>
 
-Also, it had a huge bounce rate and wasn’t attracting many customers.
+Also, it had a huge bounce rate (45,51%) and wasn’t attracting many customers (about 124 users a month with an average of 1m07s per session).
 
 ## Redesign Goals and Scope
 
-Improve the website's navigation and build a responsive online shop that can help extend their customer base to other geographical areas, without investing in the rental of new spaces for physical shops, as well as improve sales, convert occasional users into registered clients, publicize promotional campaigns and new arrivals.
+The project goals included improving the website's navigation and building a responsive online shop that could help extend their customer base to other geographical areas, without investing in the rental of new spaces for physical shops, as well as improve sales, convert occasional users into registered clients, publicize promotional campaigns and new arrivals.
 
 Above all, a design that focus on the users, the products and reflects the brand's values:
 
@@ -96,7 +96,7 @@ Initial scope presented to the client.
 </p>
 <br></br>
 
-This project involved redesigning the homepage, products’ list page, product page and cart.
+This project involved redesigning the Homepage, Products’ List Page, Product Page and Cart.
 
 ## Methodology
 
@@ -116,10 +116,11 @@ I conducted a structural benchmarking analysis on 6 competitor websites and asse
 <br></br>
 <p align="center">
 <img src="https://raw.githubusercontent.com/FilipaGo/home-4-us-desktop-site-prototype/master/_images_readme/benchmarking.jpg" width="1000" />
-Benchmarking Analysis. You can <a href="https://raw.githubusercontent.com/FilipaGo/home-4-us-desktop-site-prototype/master/_docs_readme/benchmarking_structure.xlsx" >download the complete benchmarking analysis here </a>.
+Benchmarking Analysis. You can <a href="https://raw.githubusercontent.com/FilipaGo/home-4-us-desktop-site-prototype/master/_docs_readme/benchmarking_structure.xlsx" >download the complete benchmarking analysis here</a>.
 </p>
 <br></br>
 
+<p align="center">
 <img src="https://raw.githubusercontent.com/FilipaGo/home-4-us-desktop-site-prototype/master/_images_readme/benchmarking_example.jpg" width="1000" />
 Example pages from the Benchmarking presentation to the client. You can <a href="https://raw.githubusercontent.com/FilipaGo/home-4-us-desktop-site-prototype/master/_docs_readme/benchmarking_strong-and-weak.pdf" >download the complete listing here</a>.
 </p>
@@ -206,7 +207,7 @@ Home4Us new Information Architecture… 5th iteration. You can <a href="https://
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/FilipaGo/home-4-us-desktop-site-prototype/master/_images_readme/info-architecture-new_sitemap-v05_full.jpg" width="1000" />
-New Sitemap 🏆… Cleaner and a lot more functional.
+New Sitemap 🏆… Cleaner and a lot more functional. You can <a href="https://raw.githubusercontent.com/FilipaGo/home-4-us-desktop-site-prototype/master/_docs_readme/sitemap_home4us_v05.pdf" >download the new sitemap here</a>.
 </p>
 <br></br>
 
@@ -221,11 +222,11 @@ Some early stage wireframes. Always with real content!
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/FilipaGo/home-4-us-desktop-site-prototype/master/_images_readme/wireframes.jpg" width="1000" />
-Some wireframes for the Homepage, Product Page and Cart.
+Some wireframes for the Homepage, Product Page and Cart. You can check out all the wireframes <a href="https://github.com/FilipaGo/home-4-us-desktop-site-prototype/tree/master/_images_readme/wireframes" >here</a>.
 </p>
 <br></br>
 
-When time came to choosing fonts and colors, I went for a hand-drawn font for the headings to add a little charm and personal touch, and a more subtle font for the body text. Bold and vibrant colors were a risky choice that payed off.
+When time came to choose fonts and colors, I went for a hand-drawn font for the headings to add a little charm and personal touch, and a more subtle font for the body text. Bold and vibrant colors were a risky choice that payed off.
 
 <br></br>
 <p align="center">
@@ -234,7 +235,7 @@ Home4Us new color palette and fonts.
 </p>
 <br></br>
 
-> [Lato is] A typeface that would seem quite transparent when used in body text but would display some original traits when used in larger sizes. (...) He used classical proportions (particularly visible in the uppercase) to give the letterforms familiar harmony and elegance. (...) The semi-rounded details of the letters give Lato a feeling of warmth, while the strong structure provides stability and seriousness. Male and female, serious but friendly. With the feeling of the Summer.
+> [Lato is] A typeface that would seem quite transparent when used in body text but would display some original traits when used in larger sizes. (...) He used classical proportions (particularly visible in the uppercase) to give the letterforms familiar harmony and elegance. (...) The semi-rounded details of the letters give Lato a feeling of warmth, while the strong structure provides stability and seriousness. Male and female, serious but friendly.
 
 <br></br>
 <p align="center">
@@ -247,12 +248,19 @@ When designing the Mockups I made a few adjustments to the Homepage structure, a
 
 I played a bit more with the image grids that highlight the second level navigation on the page body, making them more dynamic and appealing.
 
+<br></br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/home-4-us-desktop-site-prototype/master/_images_readme/mockups-03.jpg" width="1000" />
+Homepage Detail.
+</p>
+<br></br>
+
 I also realized I had left out an important detail, my client’s story… so right below the hero, I designed a very graphic section that tells a little bit about them and links directly to the About page (which can also be accessed through the footer), where clients can learn more about the history behind the shop.
 
 <br></br>
 <p align="center">
 <img src="https://raw.githubusercontent.com/FilipaGo/home-4-us-desktop-site-prototype/master/_images_readme/mockups-01.jpg" width="1000" />
-Home4Us Mockups. List Page and Product Page.
+Home4Us Mockups. From left to right, List Page and Product Page.
 </p>
 <br></br>
 
