@@ -321,4 +321,4 @@ Graceful Degradation;
 
 [homepage](https://filipago.github.io/home-4-us/)  //  [product page](https://filipago.github.io/home-4-us/produto.html)  //  [contact form](https://filipago.github.io/home-4-us/contactos.html)
 
-I gave a presentation of this project explaining how I structured it's development. You can take a look at it [here]( https://github.com/FilipaGo/home-4-us-desktop-site-prototype/raw/master/_docs_readme/apresentacao_ltd.pdf "Home4Us Keynote Presentation").
+I gave a presentation of this project explaining how I structured it's development. You can [download it here]( https://github.com/FilipaGo/home-4-us-desktop-site-prototype/raw/master/_docs_readme/apresentacao_ltd.pdf "Home4Us Keynote Presentation").
