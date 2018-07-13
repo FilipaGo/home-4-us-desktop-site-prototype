@@ -4,6 +4,7 @@
 <img src="https://raw.githubusercontent.com/FilipaGo/home-4-us-desktop-site-prototype/master/_images_readme/redesign-orange.jpg" alt="Home4Us Homepage details on desktop and mobile" width="1000" />
 Homepage Detail.
 </p>
+<br></br>
 
 📖 <i>`Estimated reading time: 8 minutes (1534 words)`</i>
 
