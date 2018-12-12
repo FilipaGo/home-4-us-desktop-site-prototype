@@ -3,10 +3,19 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/FilipaGo/home-4-us-desktop-site-prototype/master/_images_readme/redesign-orange.jpg" alt="Home4Us Homepage details on desktop and mobile" width="1000" />
 Homepage Detail.
-</p>
 <br></br>
+</p>
 
 📖 <i>`Estimated reading time: 8 minutes (1534 words)`</i>
+
+**Table of Contents**
+
+* [Project Summary](https://github.com/FilipaGo/home-4-us-desktop-site-prototype#project-summary)</br>
+* [Context](https://github.com/FilipaGo/home-4-us-desktop-site-prototype#context)</br>
+* [Problem](https://github.com/FilipaGo/home-4-us-desktop-site-prototype#problem)</br>
+* [Redesign Goals and Scope](https://github.com/FilipaGo/home-4-us-desktop-site-prototype#redesign-goals-and-scope)</br>
+* [Methodology](https://github.com/FilipaGo/home-4-us-desktop-site-prototype#methodology)</br>
+* [Development](https://github.com/FilipaGo/home-4-us-desktop-site-prototype#development)</br>
 
 ## Project Summary
 
